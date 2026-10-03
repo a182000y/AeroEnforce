@@ -1,0 +1,6 @@
+{
+  "name": "AeroEnforce - City AQI Telemetry & Autonomous Pollution Enforcement Loop",
+  "description": "Continuous urban air sensor monitoring, machine learning pollution source attribution, automated formal regulatory reporting, and dispatch loop to municipal pollution control boards with interactive historical trend analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
